@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 8f580adcf9adaca4bafdd42ee9e13e4a
+timeCreated: 1495798651
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: polySurface349
+    100002: polySurface350
+    100004: polySurface351
+    100006: Tape_Taupe:Bras_Droit
+    100008: Tape_Taupe:Bras_Gauche
+    100010: Tape_Taupe:Corps
+    100012: Tape_Taupe:D3
+    100014: Tape_Taupe:joint10
+    100016: Tape_Taupe:joint11
+    100018: Tape_Taupe:joint13
+    100020: Tape_Taupe:joint13 1
+    100022: Tape_Taupe:joint14
+    100024: Tape_Taupe:joint14 1
+    100026: Tape_Taupe:joint15
+    100028: Tape_Taupe:joint15 1
+    100030: Tape_Taupe:joint16
+    100032: Tape_Taupe:joint16 1
+    100034: Tape_Taupe:joint17
+    100036: Tape_Taupe:joint17 1
+    100038: Tape_Taupe:joint9
+    100040: Tape_Taupe:Taupe_Joints
+    100042: Tape_Taupe:Torse
+    100044: "Tape_Taupe:T\xEAte"
+    100046: //RootNode
+    100048: TaupeLow1
+    100050: Tape_Taupe:TaupeLow
+    400000: polySurface349
+    400002: polySurface350
+    400004: polySurface351
+    400006: Tape_Taupe:Bras_Droit
+    400008: Tape_Taupe:Bras_Gauche
+    400010: Tape_Taupe:Corps
+    400012: Tape_Taupe:D3
+    400014: Tape_Taupe:joint10
+    400016: Tape_Taupe:joint11
+    400018: Tape_Taupe:joint13
+    400020: Tape_Taupe:joint13 1
+    400022: Tape_Taupe:joint14
+    400024: Tape_Taupe:joint14 1
+    400026: Tape_Taupe:joint15
+    400028: Tape_Taupe:joint15 1
+    400030: Tape_Taupe:joint16
+    400032: Tape_Taupe:joint16 1
+    400034: Tape_Taupe:joint17
+    400036: Tape_Taupe:joint17 1
+    400038: Tape_Taupe:joint9
+    400040: Tape_Taupe:Taupe_Joints
+    400042: Tape_Taupe:Torse
+    400044: "Tape_Taupe:T\xEAte"
+    400046: //RootNode
+    400048: TaupeLow1
+    400050: Tape_Taupe:TaupeLow
+    4300000: Tape_Taupe:D3
+    4300002: polySurface349
+    4300004: polySurface350
+    4300006: polySurface351
+    4300008: Tape_Taupe:TaupeLow
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface349
+    13700002: polySurface350
+    13700004: polySurface351
+    13700006: Tape_Taupe:D3
+    13700008: Tape_Taupe:TaupeLow
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

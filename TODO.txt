@@ -1,0 +1,11 @@
+- score //done
+- script PlaneFinding
+- Remettre le plane à 0 degré //done
+- Animation //done
+- Textures //done
+- Enlever le Time(menu)
+- Son
+- scroll change gesture
+- Virer la fonction de click //done
+- Anim perte de casque //done -> juste disparition, pas le temps de faire une autre anim
+- Gerer avec une variable que pendant le temps d'anim pour ne pas farmer les points. //done? Attendre completement fin anim chargement?
