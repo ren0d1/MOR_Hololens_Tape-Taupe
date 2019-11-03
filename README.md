@@ -4,3 +4,6 @@ Hololens support by Unity was still sketchy at the time.
 
 ## Demo  
 [![Click here to see the demo](https://i.ibb.co/k2ZRJTH/tape-taupe.png)](https://youtu.be/UXYckKmJt_0)
+
+## Thanks
+Special thanks to ![Victoria Esch](https://www.artstation.com/kibi "Victoria Esch") for the 3D models and textures.
